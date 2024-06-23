@@ -12,7 +12,7 @@ RelaxOasis_Group11.zip: Includes all the source code for the project, along with
 To clone the repository:git clone https://github.com/Ivdex229/RelaxOasis_Group11.git
 
 
-How to Run the Project
+HOW TO RUN THE PROJECT:
 Follow these steps to run the various components of the RelaxOasis project:
 
 Run the Service Catalog Server:
